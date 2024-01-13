@@ -1,7 +1,4 @@
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-import nltk
-from nltk.probability import FreqDist
+
 from urlextract import URLExtract
 from wordcloud import WordCloud
 
